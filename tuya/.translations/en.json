@@ -1,0 +1,27 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "Only one Tuya configuration allowed"
+        },
+        "create_entry": {
+            "default": "Create Entry Default."
+        },
+        "error": {
+            "invalid_credentials": "Invalid credentials",
+            "unexpected_error": "Unexpected error"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "password": "Password",
+                    "username": "Username",
+                    "country_code": "Country Code",
+                    "platform": "Platform"
+                },
+                "description": "User Step Description.",
+                "title": "Tuya Account Info"
+            }
+        },
+        "title": "Tuya"
+    }
+}
